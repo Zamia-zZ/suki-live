@@ -54,7 +54,7 @@
       "title": "小半",
       "artist": "陈粒",
       "language": "中文",
-      "genre": "古风",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -182,7 +182,7 @@
       "title": "萱草花",
       "artist": "张小斐",
       "language": "中文",
-      "genre": "古风",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -446,7 +446,7 @@
       "title": "勾指起誓",
       "artist": "洛天依",
       "language": "中文",
-      "genre": "民谣",
+      "genre": "VOCALOID",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -502,7 +502,7 @@
       "title": "我用什么把你留住",
       "artist": "doudou",
       "language": "中文",
-      "genre": "游戏",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -622,7 +622,7 @@
       "title": "雾里",
       "artist": "姚六一",
       "language": "中文",
-      "genre": "VOCALOID",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -630,7 +630,7 @@
       "title": "囍",
       "artist": "葛东琪",
       "language": "中文",
-      "genre": "流行",
+      "genre": "古风",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -638,7 +638,7 @@
       "title": "失眠飞行",
       "artist": "接个吻，开一枪",
       "language": "中文",
-      "genre": "VOCALOID",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -646,7 +646,7 @@
       "title": "匆匆那年",
       "artist": "王菲",
       "language": "中文",
-      "genre": "VOCALOID",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -710,7 +710,7 @@
       "title": "奇妙能力歌",
       "artist": "陈粒",
       "language": "中文",
-      "genre": "古风",
+      "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
     },
@@ -737,6 +737,126 @@
       "genre": "流行",
       "access": "免费",
       "added_at": "2026-07-12"
-    }
+    },
+    {
+      "title": "万物起舞",
+      "artist": "梁倩雨",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "青衣",
+      "artist": "尘ah.",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "虞兮叹",
+      "artist": "闻人听书",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "免我蹉跎苦",
+      "artist": "黄龄",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "天下",
+      "artist": "张杰",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "李白",
+      "artist": "李荣浩",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "求神呐",
+      "artist": "柏鹿",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "弄舌",
+      "artist": "王子建",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "鸳鸯戏",
+      "artist": "Babystop_山竹/伊笑",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "红昭愿",
+      "artist": "音阙诗听",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "莫问归期",
+      "artist": "蒋雪儿",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "泡泡",
+      "artist": "牛佳珏",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "春庭雪",
+      "artist": "橙翼",
+      "language": "中文",
+      "genre": "古风",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "锁",
+      "artist": "灼夭",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
+    {
+      "title": "谁家",
+      "artist": "林渝植",
+      "language": "中文",
+      "genre": "流行",
+      "access": "免费",
+      "added_at": "2026-07-27"
+    },
   ]
 }
