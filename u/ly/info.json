@@ -2,8 +2,8 @@
   "name": "六月なつ",
   "tagline": "请耐心等待...这也是修行的一环！",
   "bio": false,
-  "show_playlist": true,
-  "show_header_bg": true,
+  "show_playlist": false,
+  "show_header_bg": false,
   "show_body_bg": false,
   "social": [
     {
