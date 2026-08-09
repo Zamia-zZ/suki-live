@@ -1,3 +1,12 @@
 {
-"name":"只眠Zamia"
+"name": "只眠",
+"tagline": "小羊神的专属歌单",
+"bio": true,
+"show_playlist": true,
+"show_header_bg": false,
+"show_body_bg": false,
+"anonymail": "",
+"social": [],
+"created_at": "2026-08-09",
+"updated_at": "2026-08-09"
 }
